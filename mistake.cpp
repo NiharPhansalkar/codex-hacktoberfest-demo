@@ -1,7 +1,9 @@
 #include <iostream>
 
-integer main() {
-    String correctMePls = 4;
+using namespace std;
 
-    return 45;
+int main() {
+    string correctMePls = "4";
+
+    return 0;
 }
