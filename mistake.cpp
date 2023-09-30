@@ -1,7 +1,7 @@
 #include <iostream>
-
-integer main() {
-    String correctMePls = 4;
-
+using namespace std;
+int main() {
+    char correctMePls = {'4'};
+    
     return 45;
 }
