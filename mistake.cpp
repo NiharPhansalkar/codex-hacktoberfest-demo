@@ -1,6 +1,6 @@
 #include <iostream>
 
-integer main() {
+int main() {
     int correctMePls = 4;
 
     return 45;
