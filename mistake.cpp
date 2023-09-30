@@ -4,5 +4,5 @@ int main()
 {
     int correctMePls = 4;
 
-    return 45;
+    return 0;
 }
