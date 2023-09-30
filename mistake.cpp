@@ -1,7 +1,8 @@
 #include <iostream>
 
-integer main() {
-    String correctMePls = 4;
+int main() 
+{
+    int correctMePls = 45;
 
     return 45;
 }
