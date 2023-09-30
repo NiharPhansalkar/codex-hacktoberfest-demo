@@ -1,7 +1,10 @@
 #include <iostream>
 
-integer main() {
-    String correctMePls = 4;
+using namespace std;
 
-    return 45;
+int main() {
+    int correctMePls = 4;
+    cout<<"Your corrected code:"<<correctMePls;
+
+    return 0;
 }
