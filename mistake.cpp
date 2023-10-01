@@ -1,7 +1,9 @@
-#include <iostream>
+include <iostream>
+using namespace std;
+
 
 integer main() {
     String correctMePls = 4;
 
-    return 45;
+    return 4;
 }
