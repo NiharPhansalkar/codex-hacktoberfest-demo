@@ -1,6 +1,7 @@
 public class NoPls {
-    private static double main(Integer[] args) {
-        System.out.println("I can never run :(");
+    public static void main(String[] args) {
+        System.out.println("I can run now :)");
         System.out.println("Or maybe.... I can? :O");
+        System.out.println("bye for now");
     }
 }
