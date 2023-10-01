@@ -1,7 +1,10 @@
 #include <iostream>
+using namespace std;
 
-integer main() {
-    String correctMePls = 4;
+int main() {  
+    for String
+    int correctMePls = 4; 
 
     return 45;
 }
+
