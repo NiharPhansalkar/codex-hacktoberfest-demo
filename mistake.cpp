@@ -1,7 +1,10 @@
 #include <iostream>
+using namespace std;
 
-integer main() {
-    String correctMePls = 4;
+int main() {
+    int correctMePls = 4;
+
+    cout << "The value of correctMePls is: " << correctMePls << endl;
 
     return 45;
 }
